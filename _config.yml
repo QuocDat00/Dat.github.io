@@ -5,7 +5,7 @@
 #
 theme: jekyll-theme-hacker
 # author:
-   name: your_full_name
+   name: nguyen quoc dat
 #  
 email: nguyenqd2106@gmail.com
 #
@@ -23,7 +23,7 @@ description: welcome
 #
 # If you wish to use the gem-version of Minima with or without a Gemfile, use
 #   the following setting:
-#theme: minima
+theme: minima
 #
 # **OR** if you wish to use the theme directly from the GitHub repository by
 #   bypassing a Gemfile, use the following setting instead.
@@ -92,4 +92,4 @@ description: welcome
 #     RSS / Atom feed link is always rendered as the last item of social-links
 #     list. Set below key to `true` to not have the link to feed rendered as
 #     part of social-links list.
-#   hide_site_feed_link: false
+ hide_site_feed_link: false
